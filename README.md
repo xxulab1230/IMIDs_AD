@@ -30,11 +30,11 @@ This study examines the complex interplay between immune-mediated diseases (IMID
 3. Predictive Modeling
     Machine Learning Integration:
     Train models combining polygenic risk scores (PRS) and immune gene expression to predict AD progression.
-    Validate across independent cohorts (ADNI, ROSMAP, MSBB).
+    Validate across independent cohorts.
 
 4. Mechanistic Validation
     Mediation Analysis:
-    Quantify the role of key genes (e.g., STK4, SMPD3) in mediating AD pathology (amyloid-beta, tau).
+    Quantify the role of key genes in mediating AD pathology (amyloid-beta, tau).
    
     Structural Equation Modeling (SEM):
     Map hierarchical relationships between genetic variants, molecular pathways, and clinical outcomes.
